@@ -18,3 +18,7 @@ code {
   border-radius: 50%;
   box-shadow: 0 0 10px #545454;
 }
+.logo{
+  width: 80px;
+  /* height: 22px; */
+}

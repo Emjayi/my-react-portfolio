@@ -1,9 +1,9 @@
-## Khersebozorg.com
-Description
-- ![600x200](http://khersebozorg.com/wp-content/uploads/2023/04/redخرس-بزرگ.png)
-- Tags: WordPress
+## Dashboard
+A user-friendly Dashboard React.js web application that provides a visually appealing and customizable interface for data visualization and analytics. With real-time updates, interactive charts, and customizable widgets, users can monitor key metrics, track performance, and make data-driven decisions. The dashboard supports integration with various data sources, offers user management capabilities, and is designed with responsiveness and scalability in mind. Overall, it empowers users to efficiently analyze and present data, facilitating informed decision-making.
+- ![600x200](https://coreui.io/images/templates/coreui_pro_light_v3_1440.webp)
+- Tags: React
 - Badges:
-  - Badge [blue]
+  - React [blue]
 - Buttons:
   - Link [https://www.khersebozorg.com]
 
