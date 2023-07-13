@@ -1,6 +1,6 @@
 ## Project 1
 Description
-- Tags: Category 1
+- Tags: WordPress
 - Badges:
   - Badge [blue]
 - Buttons:
@@ -8,15 +8,15 @@ Description
 
 ## Project 2
 Description
-- Tags: Category 2
+- Tags: React
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 3
+## React 3
 Description
-- Tags: Category 3
+- Tags: React
 - Badges:
   - Badge [blue]
 - Buttons:

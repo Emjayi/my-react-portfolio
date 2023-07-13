@@ -19,10 +19,10 @@ export default function Header({ color }) {
   };
   const linkedin = () => {
     window.open(
-                `${profile.linkedin}`,
-                "_blank",
-                "noreferrer,noopener"
-              );
+      `https://emjayi.ir`,
+      "_blank",
+      "noreferrer,noopener"
+    );
   };
   return (
     <>
@@ -46,9 +46,9 @@ export default function Header({ color }) {
             fontSize={{ base: "2xl", sm: "4xl", md: "6xl" }}
             lineHeight={"110%"}
           >
-            {profile.headerName} <br />
+            I'm Emjayi <br />
             <Text as={"span"} color={`${color}.400`}>
-              {profile.headerRole}
+              a Front-End developer
             </Text>
           </Heading>
           <Text
@@ -74,7 +74,7 @@ export default function Header({ color }) {
               }}
               onClick={linkedin}
             >
-              Let's connect!
+              Download CV
             </Button>
             <Button
               variant={"link"}
