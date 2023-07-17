@@ -28,7 +28,7 @@ export default function About({ color }) {
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>
-          <img className="profile-pic" alt="Profile" src="https://media.licdn.com/dms/image/D4E03AQGfXqTOUqqDzw/profile-displayphoto-shrink_400_400/0/1687435863833?e=1694649600&v=beta&t=CS8GTIGiX9IKtdtYS1RSkuboS0mDog9xEzoRahkd1zE" />
+          <img className="profile-pic" alt="Profile" src="https://media.licdn.com/dms/image/D4E03AQEz-pFkkK5w2g/profile-displayphoto-shrink_400_400/0/1689298537935?e=1694649600&v=beta&t=KGQ0NRTE2qEREZmkNXYXNXPFJmst2yMpsvktVuALDfw" />
           <Text color={"gray.600"} fontSize={"xl"} px={4}>
             {profile.about}
           </Text>

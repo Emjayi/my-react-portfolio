@@ -17,9 +17,9 @@ export default function Header({ color }) {
     const contactSection = document.querySelector("#contact");
     contactSection.scrollIntoView({ behavior: "smooth" });
   };
-  const linkedin = () => {
+  const emjayi = () => {
     window.open(
-      `https://emjayi.ir`,
+      `http://khersebozorg.com/wp-content/uploads/2023/07/my-cv_3.pdf`,
       "_blank",
       "noreferrer,noopener"
     );
@@ -48,7 +48,7 @@ export default function Header({ color }) {
           >
             I'm Emjayi <br />
             <Text as={"span"} color={`${color}.400`}>
-              a Front-End developer
+              A Front-End developer
             </Text>
           </Heading>
           <Text
@@ -72,7 +72,7 @@ export default function Header({ color }) {
               _hover={{
                 bg: `${color}.500`,
               }}
-              onClick={linkedin}
+              onClick={emjayi}
             >
               Download CV
             </Button>

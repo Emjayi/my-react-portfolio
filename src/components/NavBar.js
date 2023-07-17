@@ -123,7 +123,7 @@ export default function Nav({ color }) {
             {isLargerThanMD ? (
               <></>
             ) : (
-              <>
+              <div className="ham">
                 <Button
                   as={IconButton}
                   icon={<HamburgerIcon />}
@@ -148,7 +148,7 @@ export default function Nav({ color }) {
                     </DrawerBody>
                   </DrawerContent>
                 </Drawer>
-              </>
+              </div>
             )}
           </Stack>
         </Flex>

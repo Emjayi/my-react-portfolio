@@ -16,7 +16,8 @@ code {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  box-shadow: 0 0 10px #545454;
+  border: rgb(228, 228, 228) solid 2px;
+  
 }
 .logo{
   width: 80px;

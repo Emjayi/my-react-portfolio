@@ -1,43 +1,59 @@
 ## KherseBozorg
--  _WordPress Developer_ | 
+-  _WordPress lead manager_ | 
 - ![logo512](http://khersebozorg.com/wp-content/uploads/2023/02/-بزرگ-عکس-1-e1678970574970.png)
 - Tags: WordPress
 - Badges:
-  - DEPLOYED [green]
-  - FUNCTIONAL [yellow]
-  - SEO [cyan]
-  - SPEED [red]
+  - Deployed [green]
+  - Still in developement [yellow]
 - List Items:
-  - During my tenure of nearly two years at this establishment, I faced significant challenges throughout the process of creation and styling. However, I firmly believe that despite their magnitude, these difficulties did not render the tasks insurmountable. It is a testament to the fact that, in my perspective, no endeavor is beyond the realm of possibility.
-  - Used WordPress and Elementor page builder to empower the concept of website and it's styling.
-  - Fully SEO & Speed optimized for best user experience and preformance.
+  - Multivendor website with more than 100 active vendors
+  - User Interface Design: Dedicated UI Design, Fully Responsive
+  - Homepage: Featured Products, Search, Navigation
+  - Product Listings: Product Display, Sorting and Filtering, Pagination
+  - Product Detail Pages: Product Details, Variants, Add to Cart
+  - Shopping Cart and Checkout: Cart Management, Seamless Checkout, Address and Order Confirmation
+  - User Authentication and Accounts: Registration and Login with Phone number, Dashboard(Admin, Vendor, User), Password Reset
+  - Vendor-specific Features: Vendor Profiles, Inventory Management, Communication with potential buyers
+  - Reviews and Ratings: Product Reviews, Content Moderation
+  - Notifications and Alerts: Order Updates, Real-time Notifications
+  - Analytics and Reporting: User Tracking, Reports, A/B Testing
 
 ## Modiran Karafarin Fidar
-- _Role_ | 
-- ![logo512](../assets/logo512.png)
+- _WordPress developer_ | 
+- ![logo512](https://modirankarafarin.ir/wp-content/uploads/2020/01/logo-300x138-1.png)
 - Tags: WordPress
 - Badges:
-  - Badge [red]
+  - DEPLOYED [green]
+  - top result [yellow]
+  - old project [gray]
 - List Items:
-  - Point 1
-  - Point 2
+  - During my tenure of nearly two years at this establishment, I faced significant challenges throughout the process of creation and styling. However, I firmly believe that despite their magnitude, these difficulties did not render the tasks insurmountable. It is a testament to the fact that, in my perspective, no endeavor is beyond the realm of possibility.
+  - Used WordPress and Elementor page builder to empower the concept of website and it's styling
+  - User-friendly and intuitive interface: Ensure that the website has a clean and easy-to-navigate design, allowing users to find information about the company and its services effortlessly.
+  - Responsive design: Create a website that adapts seamlessly to different screen sizes and devices, including desktop computers, tablets, and mobile phones. This ensures a consistent user experience across various platforms.
+  - Engaging homepage: Develop an attractive and engaging homepage that showcases the company's expertise in event planning and management. Use visually appealing elements like high-quality images, videos, and sliders to grab visitors' attention.
+  - Event listings and details: Design a section where upcoming events are listed, including event titles, dates, venues, and brief descriptions. Each event listing should link to a dedicated page with comprehensive event details, such as agenda, speakers, sponsors, and registration information.
+  - Registration and ticketing system: Implement an intuitive registration and ticketing system that allows users to sign up for events and purchase tickets online. Include options for different ticket types, early bird discounts, and secure payment gateways.
+  - Speaker and attendee profiles: Create a section where event speakers and past attendees can be featured. Include their biographies, photos, and links to their social media profiles to enhance credibility and encourage engagement.
+  - Blog and news section: Incorporate a blog or news section to regularly publish articles, industry insights, and updates about the company's events. This helps establish the company as a thought leader and keeps visitors informed and engaged.
+  - Testimonials and success stories: Highlight client testimonials and success stories to build trust and showcase the company's track record in delivering successful events. Include quotes, photos, and videos from satisfied clients to enhance credibility.
+  - Social media integration: Integrate social media buttons and feeds into the website, enabling visitors to easily share content on their social networks. Display live social media feeds or testimonials to demonstrate real-time engagement and positive experiences.
+  - Contact and inquiry forms: Create easily accessible contact forms and inquiry forms throughout the website to encourage visitors to reach out for more information or inquiries about event planning services. Include fields for name, email, phone number, and message.
+  - Search engine optimization (SEO): Implement SEO best practices to improve the website's visibility in search engine results. Optimize meta tags, headings, and content with relevant keywords to attract organic traffic and increase the website's ranking.
+  - Accessibility considerations: Ensure that the website adheres to accessibility standards, making it accessible to users with disabilities. Use proper HTML structure, provide alt text for images, and include keyboard navigation options.
+  - Performance optimization: Optimize the website's performance by minimizing file sizes, leveraging caching techniques, and optimizing code. This ensures fast loading times and a smooth browsing experience for visitors.
+  - Analytics and tracking: Set up analytics tools such as Google Analytics to track website traffic, user behavior, and conversion rates. Analyze the data to gain insights and make informed decisions to improve the website's performance over time.
+  - Cross-browser compatibility: Test the website on different web browsers (e.g., Chrome, Firefox, Safari, Edge) to ensure consistent functionality and appearance across all platforms.
 
-## Logistic Event for CEOs
-- _Role_ | 
-- ![logo512](../assets/logo512.png)
-- Tags: WordPress
-- Badges:
-  - Badge [red]
-- List Items:
-  - Point 1
-  - Point 2
-
-## Learning
+## Portfolio
 -  | 
-- ![logo512](../assets/logo512.png)
+- ![logo512](http://khersebozorg.com/wp-content/uploads/2023/07/E-3.png)
 - Tags: React.js
 - Badges:
-  - Badge [red]
+  - Deployed [green]
+  - Still learning [blue]
+  - In developement [yellow]
 - List Items:
-  - Been practicing for almost 2 years 
-  - Still learning...
+  - Built with the React.js + Chakra UI
+  - Much more coffee
+  - Much more Fun
