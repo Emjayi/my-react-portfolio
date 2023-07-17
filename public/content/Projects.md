@@ -1,10 +1,10 @@
 ## IdeaShare
-Revolutionizing the Way Ideas Shape Our World! IdeaXchange is a groundbreaking social media platform designed to ignite conversations and empower individuals to share their brilliant ideas on a global scale. As an ongoing project in my portfolio, I am developing this app using React.js and Material UI.
+Revolutionizing the Way Ideas Shape Our World! IdeaShare is a groundbreaking social media platform designed to ignite conversations and empower individuals to share their brilliant ideas on a global scale. As an ongoing project in my portfolio, I am developing this app using React.js and Material UI.
 - ![600x200](http://khersebozorg.com/wp-content/uploads/2023/07/Brain-Bulb-Lamp-Smart-Idea-Logo-Template_auto_x2.jpg)
 - Tags: React
 - Badges:
   - React [cyan]
-  - In developement[yellow]
+  - On Going[yellow]
 - Buttons:
 
 
@@ -15,5 +15,3 @@ Dynamic and visually stunning Real Estate Website for a leading agency. This fea
 - Badges:
   - WordPress [blue]
 - Buttons:
-  - Site [https://example.com]
-  - Github [https://nothing.com]
